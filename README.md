@@ -20,8 +20,12 @@ In the Andriod Manifey.xml file add internet permissions for andriod:
 <uses-permission android:name="android.permission.INTERNET" />
 
 
+Home Page of the App:
+![image](https://github.com/SU008/Webpage-Html-Body-Viewer/assets/91423397/ee47dcfd-7ef6-460a-89ad-4d2bfe0bde16)
 
-![image](https://github.com/SU008/Webpage-Html-Body-Viewer/assets/91423397/b5d3a9cf-6642-4106-a7b8-713b6598dfcd)
+Html Viewer page:
+![image](https://github.com/SU008/Webpage-Html-Body-Viewer/assets/91423397/911f99ae-78ad-4a18-a06e-ac7f7dc4ed89)
+
 
 
 
